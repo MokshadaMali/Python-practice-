@@ -11,3 +11,5 @@ def introduction(name, division, proffesion, year="SE"):
 
 
 introduction(name,division,proffesion)
+git config --global user.name "Mokshada Mali"
+git config --global user.email "mokshadamali07@gmail.com.com"
